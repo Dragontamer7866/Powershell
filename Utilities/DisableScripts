@@ -1,0 +1,4 @@
+Disable scripts
+Write-Host "Disabling scripts"
+Start-Sleep -Seconds 3
+Set-ExecutionPolicy Restricted
